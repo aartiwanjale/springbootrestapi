@@ -1,0 +1,12 @@
+controller Layer intract  in with
+Service Layer After that
+Repo
+then Database
+
+
+Exception Handling in SpringBoot:
+
+    Exception handling is essential for small to large application
+    APIs must have exception handled properly for giving proper response back to client
+    @ControllerAdvice: Globally /handle by the Exception
+    @ExceptionHandler:
